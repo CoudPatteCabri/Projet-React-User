@@ -1,0 +1,138 @@
+{
+  "providers": [
+    {
+      "id": 1,
+      "fullname": "John Doe",
+      "email": "johnDoe@gmail.com",
+      "area": "Nord",
+      "job": 1,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=1"
+    },
+    {
+      "id": 2,
+      "fullname": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "area": "Sud",
+      "job": 2,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=2"
+    },
+    {
+      "id": 3,
+      "fullname": "John Smith",
+      "email": "johansmith@gmail.com",
+      "area": "Est",
+      "job": 3,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=3"
+    },
+    {
+      "id": 4,
+      "fullname": "Alice Johnson",
+      "email": "alicejohnson@gmail.com",
+      "area": "Ouest",
+      "job": 4,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=4"
+    },
+    {
+      "id": 5,
+      "fullname": "Bob Smith",
+      "email": "bobsmith@gmail.com",
+      "area": "Nord",
+      "job": 5,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=5"
+    },
+    {
+      "id": 6,
+      "fullname": "Emma Davis",
+      "email": "emmadavis@gmail.com",
+      "area": "Sud",
+      "job": 6,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=6"
+    },
+    {
+      "id": 7,
+      "fullname": "Michael Johnson",
+      "email": "michaeljohnson@gmail.com",
+      "area": "Est",
+      "job": 7,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=7"
+    },
+    {
+      "id": 8,
+      "fullname": "Sophia Smith",
+      "email": "sophiasmith@gmail.com",
+      "area": "Ouest",
+      "job": 1,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=8"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "name": "Developer"
+    },
+    {
+      "id": 2,
+      "name": "Designer"
+    },
+    {
+      "id": 3,
+      "name": "Manager"
+    },
+    {
+      "id": 4,
+      "name": "Engineer"
+    },
+    {
+      "id": 5,
+      "name": "Analyst"
+    },
+    {
+      "id": 6,
+      "name": "Consultant"
+    },
+    {
+      "id": 7,
+      "name": "Architect"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fullname": "John Doe",
+      "email": "johnDoe@gmail.com",
+      "area": "Nord",
+      "job": 1,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=1",
+      "enabled": false
+    },
+    {
+      "id": "2",
+      "fullname": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "area": "Sud",
+      "job": 2,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=2",
+      "enabled": true
+    },
+    {
+      "id": "3",
+      "fullname": "John Smith",
+      "email": "johansmith@gmail.com",
+      "area": "Est",
+      "job": 3,
+      "tel": "123456789",
+      "img": "https://picsum.photos/300?random=3",
+      "enabled": false
+    }
+  ]
+}
